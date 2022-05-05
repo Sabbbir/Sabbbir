@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sabbbir
 - 👀 I’m interested in Linux and Cyber Security
 - 🌱 I’m currently learning Arch Linux and Android Studio
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
     Mail - sabbir.ahmed1925@gmail.com
 
