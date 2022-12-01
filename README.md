@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sabbbir
 - 👀 I’m interested in Linux and Cyber Security
-- 🌱 I’m currently learning Arch Linux and Android Studio
+- 🌱 I’m currently using Fedora after using Arch for more than 2 years 
+- 👀 Learning Android Studio
 - 📫 How to reach me 
     Mail - sabbir.ahmed1925@gmail.com
 
