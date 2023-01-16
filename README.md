@@ -7,6 +7,7 @@
 
 - 📫 How to reach me 
     Mail - sabbir.ahmed1925@gmail.com
+    LinkedIn - https://www.linkedin.com/in/sabbir-ahmed1925/
 
 <!---
 Sabbbir/Sabbbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
