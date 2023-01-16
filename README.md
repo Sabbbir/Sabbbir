@@ -1,9 +1,8 @@
 - 👋🏼 Hi, I’m @Sabbbir
 - 👀 Tech enthusiast with a love for Linux, automation and operating systems
 - 🧠 Always looking forward to improve my skills and knowledge
-- 🌱 Currently using Fedora as my main OS after using Arch for more than 2 years
 - 💡 I enjoy immersing myself in the world of anime and series, and find inspiration for my projects through my favorite shows.
-- 🫰🏼 Deeply passionate about entrepreneurship and strive to make a positive impact in Bangladesh, through my work and projects
+- 🫰🏼 Passionate about entrepreneurship and strive to make a positive impact in Bangladesh, through my work and projects
 
 - 📫 How to reach me 
     Mail - sabbir.ahmed1925@gmail.com
