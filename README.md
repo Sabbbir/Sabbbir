@@ -1,9 +1,10 @@
 # Hey, myself Sabbir Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 👀 I'm a tech enthusiast and love Linux, automation and operating systems.
-- 🧠 I'm constantly striving to expand my abilities and knowledge. 
+- 🧠 Constantly striving to expand my abilities and knowledge.
 - 💡 I like getting lost in anime and series and using them as a source of creative inspiration for my endeavors.
-- 🫰🏼 I'm passionate about entrepreneurship and would like to put my work and ideas to develop Bangladesh. 
+- 🫰🏼 Passionate about entrepreneurship and would like to put my work and ideas to develop Bangladesh.
+
 # Reach me
 
 <p align="center">
@@ -13,6 +14,7 @@
 </p>
 
 # Technology
+
 <p align="center">
 <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -29,6 +31,7 @@
 </p>
 
 # Favourite OS
+
 <p align="center">
 <img src = "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
 <img src = "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
@@ -36,12 +39,15 @@
 </p>
 
 # My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
  <div>
  <p align ="center"><img src = "https://github-readme-stats.vercel.app/api?username=sabbbir&show_icons=true&theme=radical"/>
  </p>
-  <p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbbir" alt="Gift's LangStat" />
-
+  <p align ="center"><img src = "https://streak-stats.demolab.com/?user=sabbbir&theme=dark">
+   </p>
  <p align ="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sabbbir&layout=compact" height="192px"  width="500px"/>
+  </p>
+
 </div>
 
 <p  align="center">
