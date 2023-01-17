@@ -38,6 +38,7 @@
 # My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
  <div>
  <p align ="center"><img src = "https://github-readme-stats.vercel.app/api?username=sabbbir&show_icons=true&theme=radical"/>
+ </p>
   <p align ="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbbir" alt="Gift's LangStat" />
 
  <p align ="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sabbbir&layout=compact" height="192px"  width="500px"/>
