@@ -1,9 +1,10 @@
 # Hey, myself Sabbir Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 👀 I'm a tech enthusiast and love Linux, automation and operating systems.
+- 👀 I'm a tech enthusiast who loves Linux
+- 🤖 Big fan of automation and always tinker with OS.
 - 🧠 Constantly striving to expand my abilities and knowledge.
-- 💡 I like getting lost in anime and series and using them as a source of creative inspiration for my endeavors.
-- 🫰🏼 Passionate about entrepreneurship and would like to put my work and ideas to develop Bangladesh.
+- 💡 I like getting lost in anime and use them as a source of creative inspiration for my endeavors.
+- 🫰🏼 Passionate about entrepreneurship and engineering.
 
 # Reach me
 
