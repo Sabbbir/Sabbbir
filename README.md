@@ -1,4 +1,4 @@
-# Hey, myself Sabbir Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey, I'm Sabbir Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 👀 I'm a tech enthusiast who loves Linux
 - 🤖 Big fan of automation and always tinkering with OS
