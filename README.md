@@ -6,6 +6,11 @@
 - 💡 I like getting lost in anime and use them as a source of creative inspiration for my endeavors
 - 🫰🏼 Passionate about entrepreneurship and engineering
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sabbbir&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
+
 # Reach me
 
 <p align="center">
@@ -50,6 +55,4 @@
 
 </div>
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sabbbir" alt="visitor badge"/>
-</p>
+
